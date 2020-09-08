@@ -8,4 +8,5 @@ apt -y install nginx
 rm /var/www/html/index.nginx-debian.html
 
 # Create the default page for the region
-wget https://raw.githubusercontent.com/MicrosoftDocs/mslearn-distribute-load-with-traffic-manager/master/index.$1.html -O /var/www/html/index.html
+wget https://raw.githubusercontent.com/suineglive13/mslearn-distribute-load-with-traffic-manager/master/index.$1.html -O /var/www/html/index.html
+

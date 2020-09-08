@@ -181,7 +181,7 @@
                     {
                         "name": "ipconfig1",
                         "properties": {
-                            "privateIPAddress": "10.1.0.4",
+                            "privateIPAddress": "10.1.0.5",
                             "privateIPAllocationMethod": "Static",
                             "publicIPAddress": {
                                 "id": "[variables('eastasiaVMNicPIPResourceId')]"
@@ -218,7 +218,7 @@
                     {
                         "name": "ipconfig1",
                         "properties": {
-                            "privateIPAddress": "10.2.0.4",
+                            "privateIPAddress": "10.2.0.5",
                             "privateIPAllocationMethod": "Static",
                             "publicIPAddress": {
                                 "id": "[variables('westus2VMNicPIPResourceId')]"
